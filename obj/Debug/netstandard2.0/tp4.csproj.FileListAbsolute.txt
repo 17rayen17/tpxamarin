@@ -1,0 +1,15 @@
+C:\Users\rayen\source\repos\tp4\tp4\tp4\bin\Debug\netstandard2.0\tp4.deps.json
+C:\Users\rayen\source\repos\tp4\tp4\tp4\bin\Debug\netstandard2.0\tp4.dll
+C:\Users\rayen\source\repos\tp4\tp4\tp4\bin\Debug\netstandard2.0\ref\tp4.dll
+C:\Users\rayen\source\repos\tp4\tp4\tp4\bin\Debug\netstandard2.0\tp4.pdb
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\tp4.csproj.AssemblyReference.cache
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\tp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\tp4.AssemblyInfoInputs.cache
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\tp4.AssemblyInfo.cs
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\tp4.csproj.CoreCompileInputs.cache
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\tp4.dll
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\ref\tp4.dll
+C:\Users\rayen\source\repos\tp4\tp4\tp4\obj\Debug\netstandard2.0\tp4.pdb
